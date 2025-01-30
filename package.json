@@ -2,10 +2,10 @@
     "name": "p5-template",
     "version": "1.0.0",
     "scripts": {
-      "start": "live-server project"
+        "start": "live-server project"
     },
     "dependencies": {
-      "live-server": "^1.2.2"
+        "live-server": "^1.2.2",
+        "lunarphase-js": "^2.0.3"
     }
-  }
-  
+}
